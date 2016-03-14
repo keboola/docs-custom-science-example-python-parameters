@@ -1,2 +1,2 @@
-# docs-custom-science-example-python-parameters
-Example repository for Documentation of Custom Science in Python
+# Custom Science Python Example Parameters
+Example repository for Documentation of Custom Science Python application with parameters. See [documentation](http://developers.keboola.com/extend/custom-science/python/) for usage instructions.
